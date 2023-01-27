@@ -4,6 +4,7 @@ welcome to my school
 
 we provide various facilities>
   --library
-  --sports
+  --sports materials
   --snacks
   --digital rooms
+  -- computer lab
